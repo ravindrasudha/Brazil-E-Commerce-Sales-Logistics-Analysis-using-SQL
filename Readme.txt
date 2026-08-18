@@ -203,7 +203,7 @@ This project strengthened my understanding of:
 
 # 👤 Author
 
-**Rani Biradar**
+
 
 Data Analyst | SQL | Power BI | Excel | PostgreSQL | Python
 
